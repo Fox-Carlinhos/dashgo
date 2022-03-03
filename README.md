@@ -18,22 +18,22 @@
 
 ## Screens 💻
 <p align="center">
-<h4>Home</h4>
-  ![image](https://user-images.githubusercontent.com/90223577/156638428-3b2aa764-eb68-4e89-b2c7-27dfd856187c.png)
+<h4>Dashboard</h4>
+  <img width="1000" src=".github/dashboard.png"/>
 <h4>Users table</h4>
-  <img width="1000" src=".github/users.png"/>
+  <img width="1000" src=".github/userstable.png"/>
 <h4>Create new User form</h4>
-  <img width="1000" src=".github/new-user.png"/>
+  <img width="1000" src=".github/createuser.png"/>
 </p>
 
 ## Responsive 📱
 <p align="center">
-<h4>Home</h4>
+<h4>Dashboard</h4>
   <img width="500" src=".github/dashboard-mobile.png"/>
 <h4>Users table</h4>
-  <img width="500" src=".github/users-mobile.png"/>
+  <img width="500" src=".github/userstable-mobile.png"/>
 <h4>Create new User form</h4>
-  <img width="500" src=".github/new-user-mobile.png"/>
+  <img width="500" src=".github/createuser-mobile.png"/>
 </p>
 
 ## Contact ✉
