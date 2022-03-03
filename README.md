@@ -2,7 +2,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=282A36">
 
   <a href="https://github.com/mateusdeitos">
-    <img alt="Made By Carlos Alberto Jr" title="Made By Carlos Alberto Jr" src="https://img.shields.io/badge/Made%20by-mateusdeitos-blue" alt="Made by Carlos Alberto Jr" />
+    <img alt="Made By Carlos Alberto Jr" title="Made By Carlos Alberto Jr" src="https://img.shields.io/badge/Made%20by-Carlos%20Alberto%20Jr-green" alt="Made by Carlos Alberto Jr" />
   <a>
 </p>
 
