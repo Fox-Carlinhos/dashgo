@@ -9,7 +9,7 @@
 ## Description
 - Dashboard application created in Ignite Bootcamp IV
 
-## Features 🚀
+## Techs 🚀
  - Typescript
  - React + Next.js
  - React hook form
