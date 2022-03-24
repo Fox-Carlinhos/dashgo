@@ -15,6 +15,8 @@
  - React hook form
  - Styling using Chakra-ui
  - React context api
+ - React Query
+ - MirageJS
 
 ## Screens 💻
 <p align="center">
