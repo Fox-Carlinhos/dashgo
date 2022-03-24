@@ -23,7 +23,7 @@
 <h4>Dashboard</h4>
   <img width="1000" src=".github/dashboard.png"/>
 <h4>Users table</h4>
-  <img width="1000" src=".github/userstable2.png"/>
+  <img width="1000" src=".github/usertable2.png"/>
 <h4>Create new User form</h4>
   <img width="1000" src=".github/createuser.png"/>
 </p>
